@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "Дизайн документ игры Fire On The Horizon"
             }
-          },
-          {
-            "id": "ae1a53d1fafbf424",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Примерное представление расположения рук относительно камеры1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Примерное представление расположения рук относительно камеры1"
-            }
           }
         ],
         "currentTab": 1
@@ -220,10 +208,10 @@
   },
   "active": "a3d38ff9d7e9b911",
   "lastOpenFiles": [
-    "attachments/Примерное представление расположения рук относительно камеры2.png",
-    "attachments/Примерное представление расположения рук относительно камеры1.png",
     "Планирование разработки.md",
     "Дизайн документ игры Fire On The Horizon.md",
+    "attachments/Примерное представление расположения рук относительно камеры2.png",
+    "attachments/Примерное представление расположения рук относительно камеры1.png",
     "attachments/Pasted image 20251223010726.png",
     "Метрики.md",
     "attachments/AstroneerRef2.png",
