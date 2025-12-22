@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метрики.md",
+                "file": "Дизайн документ игры Fire On The Horizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Метрики"
+              "title": "Дизайн документ игры Fire On The Horizon"
             }
           }
         ]
@@ -193,13 +193,13 @@
   },
   "active": "1be54ca3be2f1d66",
   "lastOpenFiles": [
+    "Метрики.md",
     "Дизайн документ игры Fire On The Horizon.md",
     "attachments/AstroneerRef2.png",
     "attachments/AstroneerRef1.png",
     "attachments/OuterWildsRef2.png",
     "attachments/OuterWildsRef1.png",
     "Планирование разработки.md",
-    "attachments",
-    "Метрики.md"
+    "attachments"
   ]
 }
