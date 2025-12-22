@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дизайн документ игры Fire On The Horizon.md",
+                "file": "Планирование разработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дизайн документ игры Fire On The Horizon"
+              "title": "Планирование разработки"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "a3d38ff9d7e9b911",
   "lastOpenFiles": [
-    "Метрики.md",
     "Дизайн документ игры Fire On The Horizon.md",
+    "Метрики.md",
     "Планирование разработки.md",
     "attachments/Примерное представление расположения рук относительно камеры2.png",
     "attachments/Примерное представление расположения рук относительно камеры1.png",
