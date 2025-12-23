@@ -34,33 +34,9 @@
               "icon": "lucide-file",
               "title": "Дизайн документ игры Fire On The Horizon"
             }
-          },
-          {
-            "id": "9041e672663be0b8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20251223175409.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251223175409"
-            }
-          },
-          {
-            "id": "bf477d5ac03a891a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Следование корабля за камерой.png"
-              },
-              "icon": "lucide-image",
-              "title": "Следование корабля за камерой"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9041e672663be0b8",
+  "active": "a3d38ff9d7e9b911",
   "lastOpenFiles": [
-    "Дизайн документ игры Fire On The Horizon.md",
-    "attachments/Pasted image 20251223175409.png",
     "attachments/Следование корабля за камерой.png",
+    "attachments/Скорость корабля по направлению камеры.png",
+    "Дизайн документ игры Fire On The Horizon.md",
     "Метрики.md",
     "Планирование разработки.md",
     "attachments/Примерное представление расположения рук относительно камеры2.png",
